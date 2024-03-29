@@ -32,4 +32,4 @@ function add(){
 
 }
   console.log( add(...joinedArray) );
-  console.log(arguments);
+  console.log(arguments);0      

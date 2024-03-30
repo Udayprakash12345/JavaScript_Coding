@@ -1860,9 +1860,12 @@ const usersData = [
     },
   ]
   
-  const myName='Uday prakash';
+ const myName='Uday prakash';
 
 /* Durng exporting name can we changed... */
 // export {usersData, myName as changeMyName};
 
-export {usersData, myName};
+// export {usersData, myName};
+
+export default usersData;
+export {myName};
